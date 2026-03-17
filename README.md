@@ -10,7 +10,7 @@ A simple ATM simulation built with Python that persists balance data to a file.
 
 ## How to Run
 ```bash
-python atm.py
+python p1.py
 ```
 
 ## Technologies Used
